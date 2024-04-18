@@ -1,5 +1,7 @@
 
 
-# INstruciones
+# Instruciones
 https://cdnjs.com/libraries/font-awesome
 https://fontawesome.com/search?q=bold&o=r
+
+![Text Editor](TextEditor.gif)
