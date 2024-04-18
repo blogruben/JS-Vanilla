@@ -1,4 +1,4 @@
 
 # Calculator
 
-![Calculadora](calculadora.gif)
+![Calculadora](/calculator.gif)
